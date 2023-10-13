@@ -1,0 +1,34 @@
+site_name: My Docs
+theme:
+  name: material
+  language: en
+  logo: imgs/logo.png
+  features:
+    - header.autohide
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+    - toc.integrate
+    - navigation.tabs
+
+  palette: 
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+        primary: deep purple
+        accent: purple
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Lyncifer
+      name: Lyn on Github
+markdown_extensions:
+  - attr_list
