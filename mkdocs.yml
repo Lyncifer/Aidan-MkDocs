@@ -32,3 +32,4 @@ extra:
       name: Lyn on Github
 markdown_extensions:
   - attr_list
+  - tables

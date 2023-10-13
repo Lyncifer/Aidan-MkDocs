@@ -1,4 +1,4 @@
-# Project DHCP
+# Debian
 ## Membuat Server DHCP Menggunakan Debian
 
 Pertama, kalian membutuhkan dua OS yang menjadi Server dan Client. Untuk ini kita menggunakan Virtual Machine Debian untuk Server dan Windows XP untuk Client.
@@ -54,4 +54,4 @@ dan tambah di bawah file
 INTERFACES="eth0"
 ```
 Dan hasilnya seharusnya seperti berikut:
-![hasil](imgs/result.png)
+![hasil](/imgs/result.png)
