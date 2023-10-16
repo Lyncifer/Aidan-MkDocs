@@ -54,4 +54,4 @@ dan tambah di bawah file
 INTERFACES="eth0"
 ```
 Dan hasilnya seharusnya seperti berikut:
-![hasil](/imgs/result.png)
+![hasil](/docs/imgs/result.png)
